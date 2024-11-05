@@ -1,5 +1,5 @@
 class Camera:
-    """"
+    """
         This class manages objects of type camera
     """
 
